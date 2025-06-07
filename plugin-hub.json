@@ -1,0 +1,9 @@
+
+{
+  "internalName": "darklordhotkeys",
+  "displayName": "Darklord Hotkeys",
+  "description": "Press a hotkey to use or equip an item by ID.",
+  "author": "Sho El",
+  "version": "1.0.0",
+  "tags": ["hotkey", "utility", "gear"]
+}
